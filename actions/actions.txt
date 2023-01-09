@@ -1,0 +1,6 @@
+[status] idle
+[wait] 5
+[typing] 1058331688666665020 5
+[send] 1058331688666665020 test message
+[wait] 3
+[send] 1058331688666665020 closed
